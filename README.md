@@ -11,3 +11,5 @@ Instructions:
 (1) Download the Kudan AR iOS SDK here: https://www.kudan.eu/download-kudan-ar-sdk/
 (2) Drop the KudanAR.framework into your project 
 
+You will need to download the Lego marker, which can be downloaded on this page: https://www.kudan.eu/demo/
+
